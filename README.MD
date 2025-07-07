@@ -47,7 +47,6 @@ I am **Somapuram Uday**, a final‑year CST student at **G Pulla Reddy Engineeri
 
 ## 🧱 Repository Structure
 
-\`\`\`
 Cosmetic-Insights-Tableau-Project/
 │
 ├── 1_Assignments/Somapuram_Uday/
@@ -93,7 +92,6 @@ Cosmetic-Insights-Tableau-Project/
 │   └── LINKS.txt
 │
 └── README.md
-\`\`\`
 
 ---
 
